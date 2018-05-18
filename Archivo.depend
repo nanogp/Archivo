@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1526683614 source:d:\github\archivo\archivo.c
+	"Archivo.h"
+	<stdio.h>
+
+1526683372 d:\github\archivo\archivo.h
+
+1526683425 source:d:\github\archivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Archivo.h"
+	"d:\github\ToolboxPunteros\General.h"
+
+1526582315 source:d:\github\toolboxpunteros\general.c
+	"General.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1526582399 d:\github\toolboxpunteros\general.h
+
